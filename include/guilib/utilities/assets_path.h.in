@@ -1,0 +1,2 @@
+#define LIB_TEST_ASSETS_PATH "@PROJECT_SOURCE_DIR@/tests/assets/"
+#define LIB_EXAMPLES_ASSETS_PATH "@PROJECT_SOURCE_DIR@/examples/assets/"
