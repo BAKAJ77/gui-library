@@ -1,0 +1,12 @@
+[submodule "include/guilib/external/glm"]
+	path = include/guilib/external/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "include/guilib/external/stb"]
+	path = include/guilib/external/stb
+	url = https://github.com/nothings/stb.git
+[submodule "include/guilib/external/freetype"]
+	path = include/guilib/external/freetype
+	url = https://github.com/freetype/freetype.git
+[submodule "external/glfw"]
+	path = external/glfw
+	url = https://github.com/glfw/glfw.git
